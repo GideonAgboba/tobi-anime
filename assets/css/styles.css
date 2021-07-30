@@ -1,0 +1,20 @@
+#carouselExampleDark {
+	height: 80vh;
+	text-align: center;
+}
+
+#carouselExampleDark img {
+	width: auto !important;
+	height: 80vh;
+	margin: 0 auto;
+}
+
+.card {
+	background: transparent !important;
+	border-style: none;
+}
+
+.youTube-player {
+	width: 100%;
+	height: 400px;
+}
